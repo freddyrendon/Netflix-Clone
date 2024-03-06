@@ -31,7 +31,10 @@ In this project, we'll be diving into deploying a Netflix clone. I'm excited to 
 - 9100: Prometheus Metrics
 - 3000: Grafana
 - 9000: SonarQube
-- 30007: Application
+- 8081: Application
+
+![Alt Text](./assets/Screenshot%202024-03-06%20at%2012.50.51%20AM.png)
+
 
 
 ## Step 3:
